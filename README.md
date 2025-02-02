@@ -7,6 +7,6 @@
 
 ## Backend
 ในส่วนของหลังบ้านผมได้เขียนโดย TypeScript express.js database: MySQL โดยมีการจัดทำตามข้อ a-d ไว้ครบ
-แต่ข้อ d จะ test แค่ Product ไม่ได้ Test ที่ cart 
+แต่ข้อ d จะ test แค่ CRUD ที่ Product ไม่ได้ Test ที่ cart 
 
 
